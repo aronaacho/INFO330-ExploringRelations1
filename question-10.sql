@@ -1,0 +1,1 @@
+INSERT INTO persons (first_name, last_name, email, gender, title, age, address, city, state, postalcode, phone) VALUES ('Spongebob', 'Squarepants', 'dummy@email.com', 'Male', 'King', 100, '2000 Bikini Bottom Way', 'Seattle', 'Washington', 12345, '425-444-4444');

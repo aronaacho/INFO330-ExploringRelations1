@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT Gender) FROM persons;

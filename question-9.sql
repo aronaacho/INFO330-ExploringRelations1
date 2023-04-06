@@ -1,0 +1,1 @@
+DELETE FROM persons WHERE city IN ('Jacksonville', 'Pittsburgh', 'Kansas City');
